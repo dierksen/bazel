@@ -86,15 +86,15 @@ be refined if appropriate.
     <tr><td>P2. AppEngine (<a href="https://github.com/google/bazel/blob/master/tools/build_rules/appengine/README.md">build and load</a>)</td></tr>
     <tr><td>P2. <a href="http://bazel.io/blog/2015/07/29/dashboard-dogfood.html">Test result dashboard</a></tr></td>
     <tr>
-      <td rowspan="4"><b>0.2</b></td>
-      <td rowspan="4"><b>2015-10</b></td>
+      <td rowspan="3"><b>0.2</b></td>
+      <td rowspan="3"><b>2015-10</b></td>
       <td>P0. Support for fetching remote Skylark rules</td>
     </tr>
     <tr><td>P0. Support for testing iOS apps</td></tr>
     <tr><td>P0. Support for testing Android apps</td></tr>
     <tr>
-      <td rowspan="5"><b>0.3</b></td>
-      <td rowspan="5"><b>2015-11</b></td>
+      <td rowspan="4"><b>0.3</b></td>
+      <td rowspan="4"><b>2015-11</b></td>
       <td>P0. Significantly increase test coverage</td>
     </tr>
     <tr><td>P2. Go language support (build and tests)</td></tr>
